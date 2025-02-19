@@ -1,6 +1,7 @@
-mport unittest
+import unittest
 import nbformat
 import os
+from IPython.display import display
 import numpy as np
 import pandas as pd
 
